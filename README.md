@@ -8,7 +8,7 @@ This project is a simple React application that demonstrates the functionality o
 
 You can view the live demo of the project at the following link:
 
-[Live Demo](https://reset-button-react-project-2.vercel.app/)
+[Reset Button Project](https://reset-button-react-project-2.vercel.app/)
 
 ## Features
 
@@ -60,7 +60,3 @@ Contributions are welcome! If you have suggestions for improvements or features,
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this README as needed to better fit your project's specifics!
